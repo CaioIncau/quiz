@@ -13,4 +13,3 @@ $("form").on("submit",function(e){
 	 $("#quiz").html(text);
 });
 
-'http://www.facebook.com/sharer.php?s=100&p[title]='+encodeURIComponent('this is a title') + '&p[summary]=' + encodeURIComponent('description here') + '&p[url]=' + encodeURIComponent('http://www.nufc.com') + '&p[images][0]=' + encodeURIComponent('http://www.somedomain.com/image.jpg')
